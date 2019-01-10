@@ -17,7 +17,7 @@ By the end of this, developers should be able to:
 - Write both Function and Class based Components
 - Render components with custom data
 - Update components using state
-- Be able to identify and use React's lifecycle functions relating to mounting,
+- Identify and use React's lifecycle functions relating to mounting,
 updating, and unmounting
 
 ## Instructions
