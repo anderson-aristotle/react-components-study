@@ -48,7 +48,7 @@ Put the following in order of when they are called and define what they do:
 
 Mounting:
 
-```md
+```js
 componentDidMount()
 constructor()
 render()
@@ -56,7 +56,7 @@ render()
 
 Updating:
 
-```md
+```js
 componentDidUpdate()
 render()
 setState()
