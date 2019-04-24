@@ -20,7 +20,7 @@ In your own words, define what a React component is. How can they make our
 development process easier?
 
 ```md
-<!-- your answer here -->
+components are building blocks any React App.
 ```
 
 ## React Building Blocks
@@ -38,7 +38,7 @@ Explain what the following means in your own words:
 "All React components must act like pure functions with respect to their props."
 
 ```md
-<!-- your answer here -->
+
 ```
 
 ## Component Life Cycle
@@ -49,9 +49,9 @@ Put the following in order of when they are called and define what they do:
 Mounting:
 
 ```js
-componentDidMount()
 constructor()
 render()
+componentDidMount()
 ```
 
 Updating:
